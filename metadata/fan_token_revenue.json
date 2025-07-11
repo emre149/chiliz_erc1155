@@ -1,0 +1,51 @@
+{
+  "name": "FC Barcelona Fan Token Revenue Share",
+  "description": "Share of FC Barcelona fan token revenues including merchandise, ticketing, and digital content sales",
+  "image": "https://gateway.pinata.cloud/ipfs/QmSportsCID/fan_token_image.png",
+  "external_url": "https://www.fcbarcelona.com/",
+  "attributes": [
+    {
+      "trait_type": "RWA Type",
+      "value": "fan_token_revenue"
+    },
+    {
+      "trait_type": "Revenue Share",
+      "value": "20%"
+    },
+    {
+      "trait_type": "Team",
+      "value": "FC Barcelona"
+    },
+    {
+      "trait_type": "League",
+      "value": "La Liga"
+    },
+    {
+      "trait_type": "Sport",
+      "value": "Football"
+    },
+    {
+      "trait_type": "Revenue Sources",
+      "value": "Fan Tokens, Merchandise, Digital Content"
+    },
+    {
+      "trait_type": "Payout Frequency",
+      "value": "Monthly"
+    },
+    {
+      "trait_type": "Minimum Holding Period",
+      "value": "3 months"
+    }
+  ],
+  "properties": {
+    "revenue_share_percentage": 20,
+    "team_id": "fcb",
+    "league": "la_liga",
+    "sport": "football",
+    "revenue_sources": ["fan_tokens", "merchandise", "digital_content"],
+    "payout_frequency": "monthly",
+    "minimum_holding_period_months": 3,
+    "transferable": true,
+    "yield_bearing": true
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Camp Nou Stadium Naming Rights",
+  "description": "Exclusive naming rights for FC Barcelona's iconic Camp Nou stadium",
+  "image": "https://gateway.pinata.cloud/ipfs/QmSportsCID/stadium_image.png",
+  "external_url": "https://www.fcbarcelona.com/camp-nou",
+  "attributes": [
+    {
+      "trait_type": "RWA Type",
+      "value": "stadium_naming_rights"
+    },
+    {
+      "trait_type": "Revenue Share",
+      "value": "5%"
+    },
+    {
+      "trait_type": "Stadium",
+      "value": "Camp Nou"
+    },
+    {
+      "trait_type": "Team",
+      "value": "FC Barcelona"
+    },
+    {
+      "trait_type": "Capacity",
+      "value": "99,354"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Barcelona, Spain"
+    },
+    {
+      "trait_type": "Contract Duration",
+      "value": "10 years"
+    },
+    {
+      "trait_type": "Exclusivity",
+      "value": "Exclusive"
+    }
+  ],
+  "properties": {
+    "revenue_share_percentage": 5,
+    "stadium_name": "camp_nou",
+    "team_id": "fcb",
+    "capacity": 99354,
+    "location": "barcelona_spain",
+    "contract_duration_years": 10,
+    "exclusive": true,
+    "transferable": true,
+    "high_value": true
+  }
+}

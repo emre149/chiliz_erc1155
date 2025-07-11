@@ -1,0 +1,51 @@
+{
+  "name": "Official Merchandise Sales Share",
+  "description": "Revenue share from official team merchandise sales including jerseys, accessories, and collectibles",
+  "image": "https://gateway.pinata.cloud/ipfs/QmSportsCID/merchandise_image.png",
+  "external_url": "https://store.fcbarcelona.com/",
+  "attributes": [
+    {
+      "trait_type": "RWA Type",
+      "value": "merchandise_sales"
+    },
+    {
+      "trait_type": "Revenue Share",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Team",
+      "value": "FC Barcelona"
+    },
+    {
+      "trait_type": "Product Categories",
+      "value": "Jerseys, Accessories, Collectibles"
+    },
+    {
+      "trait_type": "Sales Channels",
+      "value": "Online, Retail Stores, Stadium"
+    },
+    {
+      "trait_type": "Global Distribution",
+      "value": "Worldwide"
+    },
+    {
+      "trait_type": "Seasonal Variations",
+      "value": "High during football season"
+    },
+    {
+      "trait_type": "Limited Editions",
+      "value": "Included"
+    }
+  ],
+  "properties": {
+    "revenue_share_percentage": 15,
+    "team_id": "fcb",
+    "product_categories": ["jerseys", "accessories", "collectibles"],
+    "sales_channels": ["online", "retail", "stadium"],
+    "global_distribution": true,
+    "seasonal_variations": true,
+    "limited_editions_included": true,
+    "transferable": true,
+    "steady_revenue": true
+  }
+}

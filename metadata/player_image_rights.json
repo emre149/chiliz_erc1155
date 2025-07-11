@@ -1,0 +1,52 @@
+{
+  "name": "Lionel Messi Image Rights",
+  "description": "Commercial image rights for Lionel Messi including advertising, endorsements, and merchandise",
+  "image": "https://gateway.pinata.cloud/ipfs/QmSportsCID/messi_image.png",
+  "external_url": "https://www.leomessi.com/",
+  "attributes": [
+    {
+      "trait_type": "RWA Type",
+      "value": "player_image_rights"
+    },
+    {
+      "trait_type": "Revenue Share",
+      "value": "10%"
+    },
+    {
+      "trait_type": "Player",
+      "value": "Lionel Messi"
+    },
+    {
+      "trait_type": "Position",
+      "value": "Forward"
+    },
+    {
+      "trait_type": "Nationality",
+      "value": "Argentina"
+    },
+    {
+      "trait_type": "Career Goals",
+      "value": "800+"
+    },
+    {
+      "trait_type": "Ballon d'Or",
+      "value": "8"
+    },
+    {
+      "trait_type": "World Cup Winner",
+      "value": "2022"
+    }
+  ],
+  "properties": {
+    "revenue_share_percentage": 10,
+    "player_id": "messi",
+    "position": "forward",
+    "nationality": "argentina",
+    "career_goals": 800,
+    "ballon_dor_wins": 8,
+    "world_cup_winner": true,
+    "legend_status": true,
+    "global_appeal": true,
+    "transferable": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Messi Tribute Rights",
+  "description": "5% of the royalty rights for the Messi tribute song.",
+  "image": "ipfs://CID/image.jpg",
+  "attributes": [
+    {
+      "trait_type": "RWA Type",
+      "value": "music_right"
+    },
+    {
+      "trait_type": "Percent",
+      "value": "5"
+    }
+  ]
+}
